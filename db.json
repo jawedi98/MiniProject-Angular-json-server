@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "nom": "alo",
+      "prixunitaire": 1,
+      "quantite": 1,
+      "id": 1
+    },
+    {
+      "nom": "",
+      "prixunitaire": 0,
+      "quantite": 0,
+      "id": 2
+    }
+  ]
+}
